@@ -1,0 +1,13 @@
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\bin\Debug\netcoreapp3.1\ClassmateArray.exe
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\bin\Debug\netcoreapp3.1\ClassmateArray.deps.json
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\bin\Debug\netcoreapp3.1\ClassmateArray.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\bin\Debug\netcoreapp3.1\ClassmateArray.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\bin\Debug\netcoreapp3.1\ClassmateArray.dll
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\bin\Debug\netcoreapp3.1\ClassmateArray.pdb
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.csprojAssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.dll
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.pdb
+C:\Users\grace\OneDrive\Desktop\ClassmateArray\ClassmateArray\obj\Debug\netcoreapp3.1\ClassmateArray.genruntimeconfig.cache
